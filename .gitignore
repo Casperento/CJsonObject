@@ -6,7 +6,8 @@
 .project
 *.swp
 *.exe
-*.txt
+#*.txt
 *.log
 *.json
 CJsonObjectTest
+build/
